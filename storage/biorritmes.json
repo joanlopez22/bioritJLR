@@ -1,0 +1,42 @@
+[
+    {
+        "nom": "Maria",
+        "data_naixement": "2002-07-08",
+        "biorritme_fisic": -0.9976687691905489,
+        "biorritme_emotiu": -0.4338837391173275,
+        "biorritme_intelectual": -0.28173255684126763,
+        "data": "2024-10-16 14:33:30"
+    },
+    {
+        "nom": "Maria",
+        "data_naixement": "2002-07-08",
+        "biorritme_fisic": -0.9976687691905489,
+        "biorritme_emotiu": -0.4338837391173275,
+        "biorritme_intelectual": -0.28173255684126763,
+        "data": "2024-10-16 14:33:49"
+    },
+    {
+        "nom": "Carles",
+        "data_naixement": "2003-03-26",
+        "biorritme_fisic": 0.6310879443263577,
+        "biorritme_emotiu": 1,
+        "biorritme_intelectual": -0.755749574354151,
+        "data": "2024-10-16 14:37:18"
+    },
+    {
+        "nom": "To\u00f1i",
+        "data_naixement": "1966-02-07",
+        "biorritme_fisic": -8.61656162090466e-14,
+        "biorritme_emotiu": -0.4338837391171139,
+        "biorritme_intelectual": -0.4582265217273693,
+        "data": "2024-10-16 14:38:54"
+    },
+    {
+        "nom": "joan",
+        "data_naixement": "2005-05-31",
+        "biorritme_fisic": -0.6310879443260354,
+        "biorritme_emotiu": 0.9009688679023636,
+        "biorritme_intelectual": -0.9718115683235827,
+        "data": "2024-11-28 23:24:13"
+    }
+]
